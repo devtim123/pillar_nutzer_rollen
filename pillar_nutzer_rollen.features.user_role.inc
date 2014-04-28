@@ -22,11 +22,5 @@ function pillar_nutzer_rollen_user_default_roles() {
     'weight' => 2,
   );
 
-  // Exported role: administrator.
-  $roles['administrator'] = array(
-    'name' => 'administrator',
-    'weight' => 4,
-  );
-
   return $roles;
 }

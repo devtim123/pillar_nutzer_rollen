@@ -8,4 +8,3 @@ dependencies[] = features
 features[features_api][] = api:2
 features[user_role][] = Chefredakteur
 features[user_role][] = Redakteur
-features[user_role][] = administrator
